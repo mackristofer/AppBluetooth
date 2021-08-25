@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/btnativar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ativar bluetooth" />
+
+
+    <Button
+        android:id="@+id/btnconectarr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Conectar bluetooth" />
+
+    <Button
+        android:id="@+id/btnbuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buscar bluetooth" />
+
+    <Button
+        android:id="@+id/btnled"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Led1" />
+
+    <Button
+        android:id="@+id/btnled2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Led2" />
+
+    <Button
+        android:id="@+id/btnled3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Led3" />
+</LinearLayout>
